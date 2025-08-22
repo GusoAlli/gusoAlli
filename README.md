@@ -3,7 +3,7 @@
 [![X](https://img.shields.io/twitter/follow/GusoDev?logo=twitter&style=for-the-badge)](https://x.com/GusoDev)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GusoDev)
 
-🚀 **Web3 Developer** | Node.js · Solana · SPL Tokens  
+🚀 **Web3 Developer** | Node.js · Solana · Solidity (EVM) · SPL Tokens  
 🛠 Building **presale UIs, automated DeFi bots, and staking tools**  
 🌐 Exploring **DeFi, airdrops, and on-chain automation**
 
@@ -12,6 +12,8 @@
 ## 🧰 Tech Stack
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-3E00FF?style=for-the-badge&logo=solana&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -29,6 +31,7 @@
 - 🪙 **SPL Token Scripts** → Automation tools for creating and managing tokens on Solana  
 - 💻 **Presale UI** → Multi-coin presale platform with stage bonuses  
 - ⚡ **DeFi Bots** → Market-making & swap automation experiments on Solana  
+- ⛓ **EVM Smart Contracts** → Solidity contracts for presales & staking
 
 ---
 
