@@ -1,9 +1,9 @@
 # Hi there, I'm Guso 👋
 
 [![X](https://img.shields.io/twitter/follow/GusoDev?logo=twitter&style=for-the-badge)](https://x.com/GusoDev)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GusoDev)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TORserve)
 
-🚀 **Web3 Developer** | Node.js · Solana · Solidity (EVM) · SPL Tokens  
+🚀 **Web3 Developer** | Node.js · Solana · Solidity · EVM  
 🛠 Building **presale UIs, automated DeFi bots, and staking tools**  
 🌐 Exploring **DeFi, airdrops, and on-chain automation**
 
@@ -30,14 +30,13 @@
 ## 🌟 Featured Projects
 - 🪙 **SPL Token Scripts** → Automation tools for creating and managing tokens on Solana  
 - 💻 **Presale UI** → Multi-coin presale platform with stage bonuses  
-- ⚡ **DeFi Bots** → Market-making & swap automation experiments on Solana  
-- ⛓ **EVM Smart Contracts** → Solidity contracts for presales & staking
+- ⚡ **DeFi Bots** → Market-making & swap automation experiments on Solana & EVM  
 
 ---
 
 ## 🔗 Connect with Me
-[![X](https://img.shields.io/twitter/follow/GusoDev?logo=twitter&style=for-the-badge)](https://x.com/GusoDev)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GusoDev)
+[![X](https://img.shields.io/twitter/follow/GusoDev?logo=twitter&style=for-the-badge)](https://x.com/GusoDev)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TORserve)  
 
 - LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)  
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)  
